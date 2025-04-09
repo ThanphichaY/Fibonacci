@@ -8,4 +8,5 @@ This project is the assignment of fibonacci. Libraries used in this project are 
 In case of error, try run 
 
 flutter pub run build_runner build --delete-conflicting-outputs
+
 flutter pub get
