@@ -1,16 +1,11 @@
 # fibonacci_demo
 
-A new Flutter project.
+Thanphicha Yimlamai
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the assignment of fibonacci. Libraries used in this project are built-in material for creating UI and BLoC for state management.
+In case of error, try run 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub run build_runner build --delete-conflicting-outputs
+flutter pub get
